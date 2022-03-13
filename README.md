@@ -5,3 +5,4 @@ Hello this is my first branch
 This is my second branch that should causing conflict
 
 ANOTHER CHANGE
+ANOTHER CHANGES THAT CAUSED CONFLICT
